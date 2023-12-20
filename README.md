@@ -15,5 +15,7 @@ then you need to watch out for the black respawn effect if it doesn't appear you
 
 ### Bandwidth (Outbound) 
 11 - 13KB/s : light stuttery movement every couple seconds
+
 10KB/s : you look stuttery
+
 9KB/s - 4KB/s  : you jump from place to place and basically freeze in between or even disconnect completely
