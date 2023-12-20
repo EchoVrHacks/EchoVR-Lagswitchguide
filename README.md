@@ -1,6 +1,6 @@
 ### How to use
 Download latest version of Clumsy
-[(https://github.com/jagt/clumsy/releases)]
+(https://github.com/jagt/clumsy/releases)
 
 ### Lag
 use 9000ms and only outbound
