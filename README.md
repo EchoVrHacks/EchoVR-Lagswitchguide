@@ -4,7 +4,7 @@ Download latest version of Clumsy
 
 ### Lag
 use 9000ms and only outbound
-: you are delayed for everyone else and stunning for example is gonna be 9 seconds delayed
+: you are delayed for everyone else and stunning is gonna be 9 seconds delayed
 
 ### Known Glitches
 
